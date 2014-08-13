@@ -9,23 +9,7 @@ f
 asdf
 ads
 fas
-d
 
-
-asdf
-asd
-f
-ads
-
-asd
-fas
-df
-asd
-fasd
-
-2
-2
-2
 2
 
 
