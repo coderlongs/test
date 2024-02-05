@@ -1,0 +1,14 @@
+{
+  "color1": {
+    "type": "color",
+    "value": "#ffffff"
+  },
+  "color2": {
+    "type": "color",
+    "value": "#000000"
+  },
+  "color3": {
+    "type": "color",
+    "value": "#333333"
+  }
+}
